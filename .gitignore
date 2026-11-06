@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# Never commit credentials or data
+kaggle.json
+*.zip
+car_data/
+stanford-car-dataset*/
+*.pt
+*.pth
